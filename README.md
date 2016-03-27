@@ -1,4 +1,4 @@
-# pocketmine-plugins
+# pocketmine-plugins PORTED TO PHP7
 
 Repository for my *official* PocketMine plugins.
 
